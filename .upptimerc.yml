@@ -24,8 +24,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: jony4.vip
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "The site displays the status of various services provided by Jony4."
@@ -33,6 +33,8 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org), [沪ICP备2021032867号-6](https://beian.miit.gov.cn/)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
