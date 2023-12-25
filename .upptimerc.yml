@@ -1,10 +1,17 @@
 # Change these first
 owner: jony4 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
+assignees: # Users to assign downtime issues (optional)
+  - jony4
 sites:
-  - name: Chat
+  - name: ChatGPT 免翻服务
     url: https://chat.jony4.vip
+  - name: 照片排版打印
+    url: https://zhaopian.jony4.vip
+  - name: 历史长河
+    url: https://history.jony4.vip
+  - name: 微信公众号编辑器
+    url: https://editor.jony4.vip
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
