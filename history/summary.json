@@ -130,19 +130,19 @@
     "url": "$V2RAYA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v2ray-a",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
-    "time": 688,
-    "timeDay": 688,
-    "timeWeek": 688,
-    "timeMonth": 688,
-    "timeYear": 688,
+    "status": "up",
+    "uptime": "90.08%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "90.08%",
+    "uptimeMonth": "90.08%",
+    "uptimeYear": "90.08%",
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-12-25": 0
+      "2023-12-25": 4
     }
   }
 ]
