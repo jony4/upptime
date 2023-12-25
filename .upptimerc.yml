@@ -23,8 +23,6 @@ status-website:
   introTitle: "The site displays the status of various services provided by Jony4."
   introMessage: Thanks for your coming!
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
