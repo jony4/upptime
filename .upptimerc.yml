@@ -6,11 +6,11 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: ChatGPT 免翻服务
     url: https://chat.jony4.vip
-  - name: 照片排版打印
+  - name: Photo 照片排版打印
     url: https://zhaopian.jony4.vip
-  - name: 历史长河
+  - name: History 历史长河
     url: https://history.jony4.vip
-  - name: 微信公众号编辑器
+  - name: Wechat MP Editor 微信公众号编辑器
     url: https://editor.jony4.vip
 
 status-website:
