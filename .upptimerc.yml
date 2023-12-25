@@ -19,7 +19,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Jony4's Upptime
+  name: Upptime
   introTitle: "The site displays the status of various services provided by Jony4."
   introMessage: Thanks for your coming!
   navbar:
