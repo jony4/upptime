@@ -5,7 +5,9 @@ assignees: # Users to assign downtime issues (optional)
   - jony4
 sites:
   - name: ChatGPT 免翻服务
-    url: https://chat.jony4.vip
+    url: https://chat.jony4.vip/zh
+  - name: ChatGPT API 免翻服务接口
+    url: $CHATGPT_API_ENDPOINT
   - name: Photo 照片排版打印
     url: https://zhaopian.jony4.vip
   - name: History 历史长河
