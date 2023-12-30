@@ -130,19 +130,19 @@
     "url": "$LOBECHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lobechat",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2322,
-    "timeDay": 2220,
-    "timeWeek": 2322,
-    "timeMonth": 2322,
-    "timeYear": 2322,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 3254,
+    "timeDay": 7864,
+    "timeWeek": 3254,
+    "timeMonth": 3254,
+    "timeYear": 3254,
     "dailyMinutesDown": {
-      "2023-12-30": 1
+      "2023-12-30": 10
     }
   },
   {
