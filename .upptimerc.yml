@@ -24,6 +24,10 @@ sites:
     url: $V2RAYA
   - name: clash2sfa
     url: $CLASH2SFA
+  - name: dts
+    url: $DTS
+  - name: favs
+    url: $FAVS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
