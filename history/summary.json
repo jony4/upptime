@@ -13,7 +13,7 @@
     "time": 1129,
     "timeDay": 450,
     "timeWeek": 1138,
-    "timeMonth": 1179,
+    "timeMonth": 1169,
     "timeYear": 1129,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 221,
     "timeDay": 139,
     "timeWeek": 215,
-    "timeMonth": 221,
+    "timeMonth": 220,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1075,
     "timeDay": 585,
     "timeWeek": 1090,
-    "timeMonth": 1098,
+    "timeMonth": 1091,
     "timeYear": 1075,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 267,
     "timeDay": 120,
     "timeWeek": 347,
-    "timeMonth": 266,
+    "timeMonth": 264,
     "timeYear": 267,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1002,
     "timeDay": 450,
     "timeWeek": 1077,
-    "timeMonth": 1071,
+    "timeMonth": 1064,
     "timeYear": 1002,
     "dailyMinutesDown": {}
   },
@@ -94,18 +94,20 @@
     "url": "$RSS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 436,
-    "timeWeek": 980,
-    "timeMonth": 1031,
-    "timeYear": 983,
-    "dailyMinutesDown": {}
+    "time": 987,
+    "timeDay": 828,
+    "timeWeek": 1010,
+    "timeMonth": 1039,
+    "timeYear": 987,
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   },
   {
     "name": "AI Proxy",
@@ -121,7 +123,7 @@
     "time": 939,
     "timeDay": 444,
     "timeWeek": 1013,
-    "timeMonth": 987,
+    "timeMonth": 990,
     "timeYear": 939,
     "dailyMinutesDown": {}
   },
@@ -139,7 +141,7 @@
     "time": 2118,
     "timeDay": 1171,
     "timeWeek": 1880,
-    "timeMonth": 1888,
+    "timeMonth": 1886,
     "timeYear": 2118,
     "dailyMinutesDown": {}
   },
@@ -157,7 +159,7 @@
     "time": 875,
     "timeDay": 477,
     "timeWeek": 979,
-    "timeMonth": 914,
+    "timeMonth": 908,
     "timeYear": 875,
     "dailyMinutesDown": {}
   },
@@ -175,7 +177,7 @@
     "time": 1105,
     "timeDay": 567,
     "timeWeek": 1006,
-    "timeMonth": 1150,
+    "timeMonth": 1131,
     "timeYear": 1105,
     "dailyMinutesDown": {}
   },
@@ -193,7 +195,7 @@
     "time": 931,
     "timeDay": 424,
     "timeWeek": 892,
-    "timeMonth": 924,
+    "timeMonth": 903,
     "timeYear": 931,
     "dailyMinutesDown": {}
   },
@@ -211,7 +213,7 @@
     "time": 877,
     "timeDay": 429,
     "timeWeek": 781,
-    "timeMonth": 864,
+    "timeMonth": 863,
     "timeYear": 877,
     "dailyMinutesDown": {}
   }
