@@ -130,10 +130,10 @@
     "url": "$LOBECHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lobechat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2077,
@@ -141,7 +141,9 @@
     "timeWeek": 1972,
     "timeMonth": 1908,
     "timeYear": 2077,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-28": 1
+    }
   },
   {
     "name": "V2rayA",
