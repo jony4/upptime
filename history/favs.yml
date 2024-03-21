@@ -1,7 +1,7 @@
 url: $FAVS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-21T05:59:50.232Z
+status: up
+code: 200
+responseTime: 1055
+lastUpdated: 2024-03-21T06:04:18.135Z
 startTime: 2024-01-10T02:58:39.989Z
 generator: Upptime <https://github.com/upptime/upptime>
