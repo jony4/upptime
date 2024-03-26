@@ -94,18 +94,20 @@
     "url": "$RSS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 979,
-    "timeDay": 988,
-    "timeWeek": 1177,
-    "timeMonth": 960,
-    "timeYear": 979,
-    "dailyMinutesDown": {}
+    "time": 980,
+    "timeDay": 1037,
+    "timeWeek": 1167,
+    "timeMonth": 964,
+    "timeYear": 980,
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "AI Proxy",
