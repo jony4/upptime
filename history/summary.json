@@ -4,18 +4,20 @@
     "url": "https://chat.jony4.vip/zh",
     "icon": "https://icons.duckduckgo.com/ip3/chat.jony4.vip.ico",
     "slug": "chat-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1137,
     "timeDay": 1300,
     "timeWeek": 1410,
     "timeMonth": 1152,
     "timeYear": 1137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 5
+    }
   },
   {
     "name": "ChatGPT API 免翻服务接口",
@@ -40,18 +42,20 @@
     "url": "https://zhaopian.jony4.vip",
     "icon": "https://icons.duckduckgo.com/ip3/zhaopian.jony4.vip.ico",
     "slug": "photo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1081,
     "timeDay": 1079,
     "timeWeek": 1323,
     "timeMonth": 1092,
     "timeYear": 1081,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 3
+    }
   },
   {
     "name": "History 历史长河",
@@ -76,10 +80,10 @@
     "url": "https://editor.jony4.vip",
     "icon": "https://icons.duckduckgo.com/ip3/editor.jony4.vip.ico",
     "slug": "wechat-mp-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1019,
@@ -87,26 +91,28 @@
     "timeWeek": 1306,
     "timeMonth": 1032,
     "timeYear": 1019,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 1
+    }
   },
   {
     "name": "Rss",
     "url": "$RSS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 985,
     "timeDay": 1183,
     "timeWeek": 1198,
     "timeMonth": 980,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2024-03-26": 9
+      "2024-03-26": 1
     }
   },
   {
@@ -114,10 +120,10 @@
     "url": "$AI_PROXY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ai-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 939,
@@ -125,16 +131,18 @@
     "timeWeek": 1100,
     "timeMonth": 944,
     "timeYear": 939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 1
+    }
   },
   {
     "name": "Lobechat",
     "url": "$LOBECHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lobechat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -144,6 +152,7 @@
     "timeMonth": 2172,
     "timeYear": 2112,
     "dailyMinutesDown": {
+      "2024-03-26": 0,
       "2024-02-28": 26
     }
   },
@@ -170,18 +179,20 @@
     "url": "$CLASH2SFA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clash2sfa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1092,
-    "timeDay": 1034,
-    "timeWeek": 1205,
-    "timeMonth": 1052,
+    "timeDay": 1054,
+    "timeWeek": 1191,
+    "timeMonth": 1053,
     "timeYear": 1092,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "dts",
