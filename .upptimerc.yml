@@ -28,6 +28,8 @@ sites:
     url: $DTS
   - name: favs
     url: $FAVS
+  - name: workspace
+    url: $MINGDAO_WORKSPACE_JONY4
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
