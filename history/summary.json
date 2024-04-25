@@ -114,10 +114,10 @@
     "url": "$AI_PROXY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ai-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 954,
@@ -125,7 +125,9 @@
     "timeWeek": 1059,
     "timeMonth": 1001,
     "timeYear": 954,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-25": 1
+    }
   },
   {
     "name": "Lobechat",
@@ -226,18 +228,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "workspace",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptime": "6.72%",
+    "uptimeDay": "6.72%",
+    "uptimeWeek": "6.72%",
+    "uptimeMonth": "6.72%",
+    "uptimeYear": "6.72%",
     "time": 986,
     "timeDay": 986,
     "timeWeek": 986,
     "timeMonth": 986,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2024-04-25": 0
+      "2024-04-25": 536
     }
   }
 ]
