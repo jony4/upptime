@@ -8,26 +8,26 @@ sites:
     url: https://chat.jony4.vip/zh
   - name: ChatGPT API 免翻服务接口
     url: $CHATGPT_API_ENDPOINT
-  - name: Photo 照片排版打印
-    url: https://zhaopian.jony4.vip
+  # - name: Photo 照片排版打印
+  #   url: https://zhaopian.jony4.vip
   - name: History 历史长河
     url: https://history.jony4.vip
-  - name: Wechat MP Editor 微信公众号编辑器
-    url: https://editor.jony4.vip
+  # - name: Wechat MP Editor 微信公众号编辑器
+  #   url: https://editor.jony4.vip
   - name: Rss
     url: $RSS
-  - name: AI Proxy
-    url: $AI_PROXY
-  - name: Lobechat
-    url: $LOBECHAT
+  # - name: AI Proxy
+  #   url: $AI_PROXY
+  # - name: Lobechat
+  #   url: $LOBECHAT
   - name: V2rayA
     url: $V2RAYA
   - name: clash2sfa
     url: $CLASH2SFA
-  - name: dts
-    url: $DTS
-  - name: favs
-    url: $FAVS
+  # - name: dts
+  #   url: $DTS
+  # - name: favs
+  #   url: $FAVS
   - name: workspace
     url: $MINGDAO_WORKSPACE_JONY4
 
