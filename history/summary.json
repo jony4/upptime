@@ -4,19 +4,19 @@
     "url": "https://chat.jony4.vip/zh",
     "icon": "https://icons.duckduckgo.com/ip3/chat.jony4.vip.ico",
     "slug": "chat-gpt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1232,
-    "timeDay": 1231,
-    "timeWeek": 1287,
-    "timeMonth": 1290,
-    "timeYear": 1232,
+    "time": 1231,
+    "timeDay": 1165,
+    "timeWeek": 1266,
+    "timeMonth": 1284,
+    "timeYear": 1231,
     "dailyMinutesDown": {
-      "2024-05-01": 1
+      "2024-05-01": 9
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "chat-gpt-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 250,
@@ -36,7 +36,7 @@
     "timeMonth": 230,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-01": 1
+      "2024-05-01": 9
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "photo",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1100,
     "timeDay": 1176,
@@ -56,7 +56,7 @@
     "timeMonth": 1144,
     "timeYear": 1100,
     "dailyMinutesDown": {
-      "2024-05-01": 1
+      "2024-05-01": 9
     }
   },
   {
@@ -84,9 +84,9 @@
     "slug": "wechat-mp-editor",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1058,
     "timeDay": 1389,
@@ -94,7 +94,7 @@
     "timeMonth": 1176,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2024-05-01": 1
+      "2024-05-01": 9
     }
   },
   {
@@ -104,9 +104,9 @@
     "slug": "rss",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.92%",
     "time": 1032,
     "timeDay": 1129,
@@ -114,7 +114,7 @@
     "timeMonth": 1158,
     "timeYear": 1032,
     "dailyMinutesDown": {
-      "2024-05-01": 1,
+      "2024-05-01": 8,
       "2024-03-26": 145
     }
   },
@@ -125,9 +125,9 @@
     "slug": "ai-proxy",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 969,
     "timeDay": 1649,
@@ -135,7 +135,7 @@
     "timeMonth": 1046,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2024-05-01": 1
+      "2024-05-01": 8
     }
   },
   {
@@ -145,9 +145,9 @@
     "slug": "lobechat",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 2012,
     "timeDay": 1701,
@@ -155,7 +155,7 @@
     "timeMonth": 1862,
     "timeYear": 2012,
     "dailyMinutesDown": {
-      "2024-05-01": 1,
+      "2024-05-01": 8,
       "2024-04-20": 19,
       "2024-02-28": 26
     }
@@ -168,8 +168,8 @@
     "status": "down",
     "uptime": "96.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.52%",
-    "uptimeMonth": "86.77%",
+    "uptimeWeek": "42.45%",
+    "uptimeMonth": "86.76%",
     "uptimeYear": "96.85%",
     "time": 904,
     "timeDay": 0,
@@ -177,7 +177,7 @@
     "timeMonth": 992,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2024-05-01": 221,
+      "2024-05-01": 228,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -191,9 +191,9 @@
     "slug": "clash2sfa",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1125,
     "timeDay": 1678,
@@ -201,7 +201,7 @@
     "timeMonth": 1208,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 8
     }
   },
   {
@@ -211,9 +211,9 @@
     "slug": "dts",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 921,
     "timeDay": 831,
@@ -221,7 +221,7 @@
     "timeMonth": 968,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 8
     }
   },
   {
@@ -230,18 +230,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "favs",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 897,
     "timeDay": 978,
     "timeWeek": 949,
     "timeMonth": 942,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2024-05-01": 20
+      "2024-05-01": 28
     }
   },
   {
@@ -250,18 +250,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "workspace",
     "status": "down",
-    "uptime": "0.44%",
+    "uptime": "0.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
     "time": 986,
     "timeDay": 0,
     "timeWeek": 986,
     "timeMonth": 986,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2024-05-01": 221,
+      "2024-05-01": 228,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
