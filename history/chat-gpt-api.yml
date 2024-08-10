@@ -1,7 +1,7 @@
 url: $CHATGPT_API_ENDPOINT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-10T05:49:58.072Z
+status: up
+code: 200
+responseTime: 192
+lastUpdated: 2024-08-10T06:23:20.944Z
 startTime: 2023-12-25T07:06:38.173Z
 generator: Upptime <https://github.com/upptime/upptime>
