@@ -1,7 +1,7 @@
 url: $V2RAYA
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-10T23:43:33.581Z
+status: up
+code: 200
+responseTime: 1522
+lastUpdated: 2024-08-11T00:56:42.915Z
 startTime: 2023-12-25T06:24:23.542Z
 generator: Upptime <https://github.com/upptime/upptime>
