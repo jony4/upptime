@@ -4,19 +4,19 @@
     "url": "https://chat.jony4.vip/zh",
     "icon": "https://icons.duckduckgo.com/ip3/chat.jony4.vip.ico",
     "slug": "chat-gpt",
-    "status": "up",
-    "uptime": "97.62%",
-    "uptimeDay": "42.54%",
-    "uptimeWeek": "62.32%",
-    "uptimeMonth": "81.85%",
-    "uptimeYear": "97.62%",
+    "status": "down",
+    "uptime": "97.64%",
+    "uptimeDay": "43.83%",
+    "uptimeWeek": "62.29%",
+    "uptimeMonth": "81.97%",
+    "uptimeYear": "97.64%",
     "time": 1517,
     "timeDay": 1496,
     "timeWeek": 1692,
     "timeMonth": 1655,
     "timeYear": 1517,
     "dailyMinutesDown": {
-      "2024-08-13": 486,
+      "2024-08-13": 489,
       "2024-08-12": 992,
       "2024-08-11": 693,
       "2024-08-10": 749,
@@ -32,7 +32,7 @@
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 631,
-      "2024-07-16": 169
+      "2024-07-16": 112
     }
   },
   {
@@ -40,11 +40,11 @@
     "url": "$CHATGPT_API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-gpt-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "44.58%",
-    "uptimeWeek": "64.22%",
-    "uptimeMonth": "90.39%",
+    "uptimeDay": "45.91%",
+    "uptimeWeek": "64.19%",
+    "uptimeMonth": "90.38%",
     "uptimeYear": "98.73%",
     "time": 428,
     "timeDay": 1189,
@@ -52,7 +52,7 @@
     "timeMonth": 610,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2024-08-13": 461,
+      "2024-08-13": 464,
       "2024-08-12": 935,
       "2024-08-11": 655,
       "2024-08-10": 707,
@@ -69,8 +69,7 @@
       "2024-07-19": 51,
       "2024-07-16": 50,
       "2024-07-14": 51,
-      "2024-07-08": 21,
-      "2024-07-01": 27
+      "2024-07-08": 21
     }
   },
   {
@@ -96,19 +95,19 @@
     "url": "$RSS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "45.04%",
-    "uptimeWeek": "64.62%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "46.41%",
+    "uptimeWeek": "64.59%",
+    "uptimeMonth": "90.55%",
+    "uptimeYear": "98.76%",
     "time": 1372,
     "timeDay": 1392,
     "timeWeek": 1343,
     "timeMonth": 1584,
     "timeYear": 1372,
     "dailyMinutesDown": {
-      "2024-08-13": 467,
+      "2024-08-13": 469,
       "2024-08-12": 892,
       "2024-08-11": 657,
       "2024-08-10": 699,
@@ -123,8 +122,7 @@
       "2024-07-22": 90,
       "2024-07-21": 17,
       "2024-07-19": 50,
-      "2024-07-16": 71,
-      "2024-07-14": 51
+      "2024-07-16": 71
     }
   },
   {
@@ -132,19 +130,19 @@
     "url": "$V2RAYA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v2ray-a",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "46.94%",
-    "uptimeWeek": "66.13%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "48.40%",
+    "uptimeWeek": "66.12%",
+    "uptimeMonth": "90.98%",
+    "uptimeYear": "98.82%",
     "time": 2191,
     "timeDay": 1823,
     "timeWeek": 2982,
     "timeMonth": 3224,
     "timeYear": 2191,
     "dailyMinutesDown": {
-      "2024-08-13": 453,
+      "2024-08-13": 454,
       "2024-08-12": 856,
       "2024-08-11": 605,
       "2024-08-10": 681,
@@ -158,8 +156,7 @@
       "2024-07-25": 28,
       "2024-07-22": 90,
       "2024-07-21": 16,
-      "2024-07-19": 116,
-      "2024-07-16": 41
+      "2024-07-19": 116
     }
   },
   {
@@ -167,12 +164,12 @@
     "url": "$CLASH2SFA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clash2sfa",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "48.36%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "49.86%",
     "uptimeWeek": "67.53%",
-    "uptimeMonth": "91.28%",
-    "uptimeYear": "98.85%",
+    "uptimeMonth": "91.39%",
+    "uptimeYear": "98.86%",
     "time": 1562,
     "timeDay": 2395,
     "timeWeek": 1735,
@@ -194,8 +191,7 @@
       "2024-07-22": 90,
       "2024-07-21": 7,
       "2024-07-19": 48,
-      "2024-07-16": 41,
-      "2024-07-14": 50
+      "2024-07-16": 41
     }
   },
   {
