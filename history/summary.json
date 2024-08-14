@@ -4,24 +4,24 @@
     "url": "https://chat.jony4.vip/zh",
     "icon": "https://icons.duckduckgo.com/ip3/chat.jony4.vip.ico",
     "slug": "chat-gpt",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "32.22%",
-    "uptimeWeek": "56.30%",
-    "uptimeMonth": "89.94%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "32.84%",
+    "uptimeWeek": "56.68%",
+    "uptimeMonth": "90.03%",
+    "uptimeYear": "98.70%",
     "time": 1542,
     "timeDay": 1952,
     "timeWeek": 1711,
     "timeMonth": 1700,
     "timeYear": 1542,
     "dailyMinutesDown": {
-      "2024-08-14": 736,
+      "2024-08-14": 739,
       "2024-08-13": 771,
       "2024-08-12": 992,
       "2024-08-11": 693,
       "2024-08-10": 749,
-      "2024-08-09": 463
+      "2024-08-09": 422
     }
   },
   {
@@ -29,11 +29,11 @@
     "url": "$CHATGPT_API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-gpt-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "35.08%",
-    "uptimeWeek": "58.89%",
-    "uptimeMonth": "90.54%",
+    "uptimeDay": "35.70%",
+    "uptimeWeek": "59.14%",
+    "uptimeMonth": "90.60%",
     "uptimeYear": "98.77%",
     "time": 419,
     "timeDay": 298,
@@ -41,12 +41,12 @@
     "timeMonth": 563,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-08-14": 699,
+      "2024-08-14": 702,
       "2024-08-13": 742,
       "2024-08-12": 935,
       "2024-08-11": 655,
       "2024-08-10": 707,
-      "2024-08-09": 411
+      "2024-08-09": 383
     }
   },
   {
@@ -72,24 +72,24 @@
     "url": "$RSS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "35.81%",
-    "uptimeWeek": "59.72%",
-    "uptimeMonth": "90.73%",
-    "uptimeYear": "98.79%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "36.44%",
+    "uptimeWeek": "60.07%",
+    "uptimeMonth": "90.81%",
+    "uptimeYear": "98.80%",
     "time": 1356,
     "timeDay": 1124,
     "timeWeek": 1295,
     "timeMonth": 1515,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2024-08-14": 692,
+      "2024-08-14": 694,
       "2024-08-13": 744,
       "2024-08-12": 892,
       "2024-08-11": 657,
       "2024-08-10": 699,
-      "2024-08-09": 375
+      "2024-08-09": 337
     }
   },
   {
@@ -97,24 +97,24 @@
     "url": "$V2RAYA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v2ray-a",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "41.77%",
-    "uptimeWeek": "62.34%",
-    "uptimeMonth": "91.33%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "42.39%",
+    "uptimeWeek": "62.77%",
+    "uptimeMonth": "91.43%",
+    "uptimeYear": "98.88%",
     "time": 2410,
     "timeDay": 4557,
     "timeWeek": 3547,
     "timeMonth": 3628,
     "timeYear": 2410,
     "dailyMinutesDown": {
-      "2024-08-14": 617,
+      "2024-08-14": 618,
       "2024-08-13": 712,
       "2024-08-12": 856,
       "2024-08-11": 605,
       "2024-08-10": 681,
-      "2024-08-09": 327
+      "2024-08-09": 282
     }
   },
   {
@@ -122,12 +122,12 @@
     "url": "$CLASH2SFA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clash2sfa",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "42.31%",
-    "uptimeWeek": "64.01%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "42.93%",
+    "uptimeWeek": "64.34%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "98.92%",
     "time": 1564,
     "timeDay": 1618,
     "timeWeek": 1708,
@@ -139,7 +139,7 @@
       "2024-08-12": 820,
       "2024-08-11": 598,
       "2024-08-10": 632,
-      "2024-08-09": 275
+      "2024-08-09": 241
     }
   },
   {
